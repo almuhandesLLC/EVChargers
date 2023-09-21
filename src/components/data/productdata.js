@@ -366,7 +366,7 @@ export const products = [
           id:'12',
           name: 'Type 2 to GBT AC Adapter',
           currency: 'AED',
-          price: 350,
+          price: 400,
           flag: 'new',
           imageSource: require('../images/product-images/GBTtoGBT.jpg'),
           imageAlt: 'Type 2 to GBT AC Adapter',
