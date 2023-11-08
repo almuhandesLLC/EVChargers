@@ -340,7 +340,7 @@ export const products = [
           id:'11',
           name: 'CCS2 to GBT DC Adapter',
           currency: 'AED',
-          price: 7000,
+          price: 4500,
           flag: 'new',
           imageUrl: require('../images/product-images/DCAdapter.webp'),
           imageSource: require('../images/product-images/DCAdapter.webp'),
