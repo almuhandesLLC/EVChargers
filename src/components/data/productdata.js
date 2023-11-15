@@ -136,7 +136,7 @@ export const products = [
       'Using this adapter you can charger your US specifcation electric car using Type 2 chargers. It means you can charge US ford using EU EV cars chargers.',
     images,
     portType: 'type2',
-    function: 'acadapter',
+    function: 'dcadapters',
     portType2: 'type1',
     longDescription: `Introducing the Type 2 to Type 1 EV Adapter - your ultimate solution for seamless and hassle-free charging compatibility. Designed with precision and reliability in mind, this adapter is a game-changer for electric vehicle (EV) owners who want to bridge the gap between Type 2 and Type 1 charging standards.
 
