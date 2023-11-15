@@ -40,4 +40,4 @@ const Adapters = () => {
   );
 };
 
-export default Adapters;
+export default DCAdapters;
