@@ -16,7 +16,7 @@ import Type1 from './components/Type1';
 import Type2 from './components/Type2';
 import Tesla from './components/Tesla';
 import Adapters from './components/Adapters';
-import dcadapters from './components/dcadapters';
+
 import ProductPage from './components/ProductPage';
 import Services from './components/Services';
 import Links from './components/Links';
@@ -207,7 +207,7 @@ function App() {
           <Route path="/support" element={<Support />} />
           <Route path="/blog/:id" element={<PostPage />} />
           <Route path="/products/adapters/dc" element={<Adapters />} />
-          <Route path="/products/dcadapters/dc" element={<dcadapters />} />
+
             
           <Route path="/services/ev-charger-installation" element={<Installation />} />
           <Route path="/services/roadside-charging-service" element={<Emergency />} />
