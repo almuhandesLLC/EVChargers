@@ -125,7 +125,7 @@ export const products = [
 
   },
   {
-    id: '4',
+    id: '401',
     name: 'Type 2 to Type 1 EV Adapter',
     currency: 'AED',
     price: 350,
