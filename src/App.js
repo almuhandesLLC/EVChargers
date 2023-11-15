@@ -207,6 +207,8 @@ function App() {
           <Route path="/support" element={<Support />} />
           <Route path="/blog/:id" element={<PostPage />} />
           <Route path="/products/adapters/dc" element={<Adapters />} />
+          <Route path="/products/dcadapters/dc" element={<dcadapters />} />
+            
           <Route path="/services/ev-charger-installation" element={<Installation />} />
           <Route path="/services/roadside-charging-service" element={<Emergency />} />
           <Route path='/services' element={<Services />} />
