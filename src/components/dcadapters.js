@@ -39,5 +39,7 @@ const Adapters = () => {
     </Box>
   );
 };
-
+   <Button colorScheme="green" width="half">
+                Order on WhatsApp
+              </Button>
 export default dcadapters;
