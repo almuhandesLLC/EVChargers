@@ -305,7 +305,7 @@ const NAV_ITEMS = [
           {
             label: 'DC Chargers',
             subLabel: 'Find the best DC adapter for your charger',
-            href: '/products/11',
+               href: '/products/chargers/dc-chargers',
           },
         ],
       },
