@@ -3,8 +3,8 @@ import { Box, Image, Text, Button, Link, Icon } from '@chakra-ui/react';
 import { products } from './data/productdata';
 import { FaBackward } from 'react-icons/fa';
 
-const dcadapters = () => {
-  const filteredProducts = products.filter((product) => product.function === 'dcadapters');
+const Dcadapters = () => {
+  const filteredProducts = products.filter((product) => product.function === 'acadapter');
 
   return (
     <Box>
@@ -39,5 +39,5 @@ const dcadapters = () => {
     </Box>
   );
 };
- 
-export default dcadapters;
+
+export default Dcadapters;
