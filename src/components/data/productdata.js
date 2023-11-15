@@ -136,7 +136,7 @@ export const products = [
       'Using this adapter you can charger your US specifcation electric car using Type 2 chargers. It means you can charge US ford using EU EV cars chargers.',
     images,
     portType: 'type2',
-    function: 'adapter',
+    function: 'acadapter',
     portType2: 'type1',
     longDescription: `Introducing the Type 2 to Type 1 EV Adapter - your ultimate solution for seamless and hassle-free charging compatibility. Designed with precision and reliability in mind, this adapter is a game-changer for electric vehicle (EV) owners who want to bridge the gap between Type 2 and Type 1 charging standards.
 
@@ -168,7 +168,7 @@ export const products = [
       'With this Tesla adapter, you get the best of both worlds. You can charge your US standard EV from a Tesla charging station. This adapter is compatible with all US standard cars like Ford, and GMC. It is also compatible with any US specifications car like US Lexus, US Mercedes, US Volkswagen, and so on..',
     images,
     portType: 'type1',
-    function: 'adapter',
+    function: 'acadapter',
     availablePorts: 'Tesla to Type 1',
     power: 'AC',
     illustration: require('../images/product-images/Tesla_Adapter.jpg'),
@@ -301,7 +301,7 @@ export const products = [
         'With this adapater you can charge your Tesla with ID4, ID6, or Changan EV chargers.',
       images,
       portType: 'tesla',
-      function: 'adapter',
+      function: 'acadapter',
       portType2: 'none',
       longDescription: `The GB/T to Tesla Adapter is a convenient accessory that enables Tesla owners to charge their vehicles using ID4, ID6, or Changan EV chargers. This adapter serves as a bridge between the different charging standards, allowing Tesla owners to access a wider range of charging options. Whether you're on a road trip, visiting a location with limited charging infrastructure, or simply looking for more flexibility in charging your Tesla, this adapter ensures compatibility and convenience. With the GB/T to Tesla Adapter, you can confidently charge your Tesla using various chargers, expanding your charging options and enhancing your electric driving experience.`,
       illustration: 'https://evee.com.au/blog/content/images/2021/08/commercialcharging-hero-desktop.jpeg',
@@ -349,7 +349,7 @@ export const products = [
           ratingCount: 3,
           description: 'Fast charging DC adapter for Volkswagen ID4 and ID6.',
           portType: 'gbt',
-          function: 'adapter',
+          function: 'dcadapter',
           longDescription: `Fast Charging DC Adapter designed exclusively for the Volkswagen ID.4 and ID.6 models, and Changan. Engineered to deliver unparalleled efficiency and convenience, this adapter takes the hassle out of recharging your VW electric vehicle and any car with GBT charging port. You can charger your GBT car with type2 tesla charger like EU Tesla, BMW, Audi, Mercedes, Porsche, and many more electric vehicles with Type 2 charging port.
           This adapter can fully charge your EV with less than an hour.`,
           illustration: 'https://www.midaevse.com/uploads/CCS2-GBT-Adapter.jpg',
@@ -360,6 +360,31 @@ export const products = [
           weight: '2 kg',
           power: '~50 kW',
           tags: ['CCS2 to GBT Adapter', 'CCS2 to GBT DC Adapter', 'CCS2 Adapter', 'ID4 Fast Adapter', 'ID6 Fast Adapter', 'ID4 Fast Adapter Dubai', 'ID6 Fast Adapter Dubai', 'ID4 Fast Adapter Sharjah', 'ID6 Fast Adapter Sharjah', 'ID4 Fast Adapter Abu Dhabi', 'ID6 Fast Adapter Abu Dhabi', 'ID4 Fast Adapter UAE', 'ID6 Fast Adapter UAE', 'ID4 Fast Adapter GCC', 'ID6 Fast Adapter GCC', 'ID4 Fast Adapter Middle East', 'ID6 Fast Adapter Middle East', 'ID4 Fast Adapter KSA', 'ID6 Fast Adapter KSA', 'ID4 Fast Adapter Saudi Arabia', 'ID6 Fast Adapter Saudi Arabia', 'ID4 Fast Adapter Oman', 'ID6 Fast Adapter Oman', 'ID4 Fast Adapter Qatar', 'ID6 Fast Adapter Qatar', 'ID4 Fast Adapter Kuwait', 'ID6 Fast Adapter Kuwait', 'ID4 Fast Adapter Bahrain', 'ID6 Fast Adapter Bahrain', 'ID4 Fast Adapter Jordan', 'ID6 Fast Adapter Jordan', 'ID4 Fast Adapter Egypt', 'ID6 Fast Adapter Egypt', 'ID4 Fast Adapter Africa', 'ID6 Fast Adapter Africa', 'ID4 Fast Adapter Europe', 'ID6 Fast Adapter Europe', 'ID4 Fast Adapter Asia', 'ID6 Fast Adapter Asia', 'ID4 Fast Adapter America', 'ID6 Fast Adapter America', 'ID4 Fast Adapter Australia', 'ID6 Fast Adapter Australia', 'ID4 Fast Adapter New Zealand', 'ID6 Fast Adapter New Zealand', 'ID4 Fast Adapter Canada', 'ID6 Fast Adapter Canada', 'ID4 Fast Adapter USA', 'ID6 Fast Adapter USA', 'ID4 Fast Adapter UK', 'ID6 Fast Adapter UK', 'ID4 Fast Adapter London', 'ID6 Fast Adapter London', 'ID4 Fast Adapter Paris', 'ID6 Fast Adapter Paris', 'ID4 Fast Adapter Berlin', 'ID6 Fast Adapter Berlin', 'ID4 Fast Adapter Munich', 'ID6 Fast Adapter Munich', 'ID4 Fast Adapter Frankfurt', 'ID6 Fast Adapter Frankfurt', 'ID4 Fast Adapter Hamburg', 'ID6 Fast Adapter Hamburg', 'ID4 Fast Adapter Amsterdam', 'ID6 Fast Adapter Amsterdam', 'ID4 Fast Adapter Brussels', 'ID6 Fast Adapter Brussels', 'ID4 Fast Adapter Rome', 'ID6 Fast Adapter Rome', 'ID4 Fast Adapter Milan', 'ID6 Fast Adapter Milan', 'ID4 Fast Adapter Madrid', 'ID6 Fast Adapter Madrid', 'ID4 Fast Adapter Barcelona', 'ID6', 'ID4']
+      },
+  {
+          id:'502',
+          name: 'CCS2 to Tesla DC Adapter',
+          currency: 'AED',
+          price: 1300,
+          flag: 'new',
+          imageUrl: require('../images/product-images/DCAdapter.webp'),
+          imageSource: require('../images/product-images/DCAdapter.webp'),
+          imageAlt: 'DC Adapter',
+          rating: 5,
+          ratingCount: 3,
+          description: 'Fast charging DC adapter for Volkswagen ID4 and ID6.',
+          portType: 'gbt',
+          function: 'dcadapter',
+          longDescription: `Fast Charging DC Adapter designed exclusively for the Volkswagen ID.4 and ID.6 models, and Changan. Engineered to deliver unparalleled efficiency and convenience, this adapter takes the hassle out of recharging your VW electric vehicle and any car with GBT charging port. You can charger your GBT car with type2 tesla charger like EU Tesla, BMW, Audi, Mercedes, Porsche, and many more electric vehicles with Type 2 charging port.
+          This adapter can fully charge your EV with less than an hour.`,
+          illustration: 'https://www.midaevse.com/uploads/CCS2-GBT-Adapter.jpg',
+          illustration2: 'https://d.yixunpan.top/electway.com/wp-content/uploads/2021/03/img-5875.jpg',
+          availablePorts: 'CCS2 to Tesla',
+          current: '200 A',
+          operatingTemperature: '-30°C to +50°C',
+          weight: '2 kg',
+          power: '~50 kW',
+          tags: ['CCS2 to Tesla Adapter', 'CCS2 to Tesla DC Adapter', 'CCS2 Adapter', 'Tesla model S Fast Adapter', 'Tesla model 3 Fast Adapter', 'Tesla model S Fast Adapter Dubai', 'Tesla model 3 Fast Adapter Dubai', 'Tesla model y Fast Adapter Sharjah', 'Tesla model X Fast Adapter Sharjah', 'Tesla model 3 Fast Adapter Abu Dhabi', 'Tesla model S Fast Adapter Abu Dhabi', 'Tesla model X Fast Adapter UAE', 'Tesla model 3 Fast Adapter UAE', 'Tesla model 3 Fast Adapter GCC', 'Tesla model S Fast Adapter GCC', 'Tesla model X Fast Adapter Middle East', 'Tesla model Y Fast Adapter Middle East', 'ID4 Fast Adapter KSA', 'ID6 Fast Adapter KSA', 'ID4 Fast Adapter Saudi Arabia', 'ID6 Fast Adapter Saudi Arabia', 'ID4 Fast Adapter Oman', 'ID6 Fast Adapter Oman', 'ID4 Fast Adapter Qatar', 'ID6 Fast Adapter Qatar', 'ID4 Fast Adapter Kuwait', 'ID6 Fast Adapter Kuwait', 'ID4 Fast Adapter Bahrain', 'ID6 Fast Adapter Bahrain', 'ID4 Fast Adapter Jordan', 'ID6 Fast Adapter Jordan', 'ID4 Fast Adapter Egypt', 'ID6 Fast Adapter Egypt', 'ID4 Fast Adapter Africa', 'ID6 Fast Adapter Africa', 'ID4 Fast Adapter Europe', 'ID6 Fast Adapter Europe', 'ID4 Fast Adapter Asia', 'ID6 Fast Adapter Asia', 'ID4 Fast Adapter America', 'ID6 Fast Adapter America', 'ID4 Fast Adapter Australia', 'ID6 Fast Adapter Australia', 'ID4 Fast Adapter New Zealand', 'ID6 Fast Adapter New Zealand', 'ID4 Fast Adapter Canada', 'ID6 Fast Adapter Canada', 'ID4 Fast Adapter USA', 'ID6 Fast Adapter USA', 'ID4 Fast Adapter UK', 'ID6 Fast Adapter UK', 'ID4 Fast Adapter London', 'ID6 Fast Adapter London', 'ID4 Fast Adapter Paris', 'ID6 Fast Adapter Paris', 'ID4 Fast Adapter Berlin', 'ID6 Fast Adapter Berlin', 'ID4 Fast Adapter Munich', 'ID6 Fast Adapter Munich', 'ID4 Fast Adapter Frankfurt', 'ID6 Fast Adapter Frankfurt', 'ID4 Fast Adapter Hamburg', 'ID6 Fast Adapter Hamburg', 'ID4 Fast Adapter Amsterdam', 'ID6 Fast Adapter Amsterdam', 'ID4 Fast Adapter Brussels', 'ID6 Fast Adapter Brussels', 'ID4 Fast Adapter Rome', 'ID6 Fast Adapter Rome', 'ID4 Fast Adapter Milan', 'ID6 Fast Adapter Milan', 'ID4 Fast Adapter Madrid', 'ID6 Fast Adapter Madrid', 'ID4 Fast Adapter Barcelona', 'ID6', 'ID4']
       },
 
       {
@@ -374,7 +399,7 @@ export const products = [
           ratingCount: 3,
           description: 'Charge your Volkswagen ID4 and ID6 with Type 2  AC chargers.',
           portType: 'gbt',
-          function: 'adapter',
+          function: 'acadapter',
           longDescription: 'By possessing this Type 2 to GBT adapter, you can charge your Volkswagen ID4 and ID6 with Type 2 AC chargers. This adapter is compatible with all Type 2 AC chargers. That means you can charge your EV with EU Tesla charger, BMW charger, Audi charger, Mercedes charger, and many more. With this adapter, you can now unlock more charging options for your Volkswagen ID4 and ID6 or any car with GB/T charging port. Most of public chargers in UAE have type 2 charging port. So, you can charge your Chinese standard EV car with this adapter at public chargers.',
           weight: '0.5 kg',
           availablePorts: 'GBT',
@@ -870,7 +895,7 @@ tags: ['Mercedes Benz EV Charger', 'EQS EV Charger', 'EQS Charger', 'EQC EV Char
         operatingTemperature: '-30℃ to 85℃',
         availablePorts: 'CCS2 to CCS1',
         specialFeature: 'Safety Lock',
-        function: 'adapter',
+        function: 'dcadapter',
         tags: ['CCS2 to CCS1', 'DC Adapter', 'CCS2 to CCS1 Adapter', 'Ford Adapter', 'GMC Adapter', 'US Mercedes Adapter']
       },
       {
