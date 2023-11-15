@@ -3,7 +3,7 @@ import { Box, Image, Text, Button, Link, Icon } from '@chakra-ui/react';
 import { products } from './data/productdata';
 import { FaBackward } from 'react-icons/fa';
 
-const Adapters = () => {
+const dcadapters = () => {
   const filteredProducts = products.filter((product) => product.function === 'dcadapters');
 
   return (
@@ -39,7 +39,5 @@ const Adapters = () => {
     </Box>
   );
 };
-   <Button colorScheme="green" width="half">
-                Order on WhatsApp
-              </Button>
+ 
 export default dcadapters;
