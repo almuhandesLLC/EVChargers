@@ -32,7 +32,7 @@ export const images = [
 ]
 export const products = [
   {
-    id: '1',
+    id: '101',
     name: 'Wallbox EV Charger',
     currency: 'AED',
     price: 1700,
@@ -157,7 +157,7 @@ export const products = [
       tags: ['Type 2 to Type 1 EV Adapter', 'Type 2 to Type 1 EV Adapter Dubai', 'Type 2 to Type 1 EV Adapter Sharjah', 'Type 2 to Type 1 EV Adapter Abu Dhabi']
     },
   {
-    id: '5',
+    id: '402',
     name: 'Tesla to Type 1 EV Adapter',
     price: 400,
     currency: 'AED',
@@ -188,7 +188,7 @@ export const products = [
   tags: ['Tesla to Type 1 EV Adapter', 'Tesla to Type 1 EV Adapter Dubai', 'Tesla to Type 1 EV Adapter Sharjah', 'Tesla to Type 1 EV Adapter Abu Dhabi']
   },
   {
-      id: '6',
+      id: '106',
       name: 'The best Volkswagen ID4 & ID6 Wallbox EV Charger',
       currency: 'AED',
       price: 1800,
@@ -224,7 +224,7 @@ export const products = [
       tags: ['Volkswagen ID4 & ID6 Wallbox EV Charger', 'Volkswagen ID4 & ID6 Wallbox EV Charger Dubai', 'Volkswagen ID4 & ID6 Wallbox EV Charger Sharjah', 'Volkswagen ID4 & ID6 Wallbox EV Charger Abu Dhabi', 'VW ID4 Charger', 'ID4 Charger', 'ID6 Charger']
     },
     {
-      id: '7',
+      id: '107',
       name: 'TYPE 2 Wallbox EV Charger',
       currency: 'AED',
       price: 1750,
@@ -266,7 +266,7 @@ export const products = [
       illustration: require('../images/product-images/EV-Home-Charger-Dimensions.webp'),
     },
     {
-      id: '8',
+      id: '108',
       name: 'Tesla Wallbox EV Charger',
       currency: 'AED',
       price: 1800,
@@ -288,7 +288,7 @@ export const products = [
       tags: ['Tesla EV charger', 'Tesla charger', 'Tesla charger delivery', 'Tesla home charger', 'Tesla type 2 charger', 'US Tesla charger', 'EU Tesla charger']
     },
     {
-      id: '9',
+      id: '409',
       name: 'GB/T to Tesla Adapter',
       currency: 'AED',
       price: 600,
@@ -337,7 +337,7 @@ export const products = [
       },
 
       {
-          id:'11',
+          id:'501',
           name: 'CCS2 to GBT DC Adapter',
           currency: 'AED',
           price: 4500,
@@ -363,7 +363,7 @@ export const products = [
       },
 
       {
-          id:'12',
+          id:'412',
           name: 'Type 2 to GBT AC Adapter',
           currency: 'AED',
           price: 400,
@@ -387,7 +387,7 @@ export const products = [
         },
 
       {
-          id:'13',
+          id:'113',
           name: '3 Phase 22kW Electric Cars Charger',
           currency: 'AED',
           price: 1850,
@@ -422,7 +422,7 @@ export const products = [
         },
       
         {
-          id:'14',
+          id:'900',
           name: 'Tesla Car Diagnostic Scanner',
           currency: 'AED',
           price: 10250,
@@ -450,7 +450,7 @@ export const products = [
       },
 
       {
-          id:'15',
+          id:'901',
           name: 'Tesla Car Diagnostic Scanner - Scan Your Tesla Using Your Phone',
           currency: 'AED',
           price: 800,
@@ -783,7 +783,7 @@ export const products = [
           tags: ['Portable EV charger', 'Portable EV charger 32A', 'Portable EV charger 7.7KW', 'Portable EV charger 7.7KW 32A', 'Portable EV charger 7.7KW 32A Type 1', 'Portable EV charger 7.7KW 32A Type 2', 'Portable EV charger 7.7KW 32A GBT', 'Portable EV charger 7.7KW 32A Type 1 Type 2 GBT', 'Portable EV charger 7.7KW 32A Type 1 Type 2', 'Portable EV charger 7.7KW 32A Type 1 GBT', 'Portable EV charger 7.7KW 32A Type 2 GBT', 'Portable EV charger 7.7KW 32A Type 1 Type 2 GBT', 'Portable EV charger dubai', 'Portable EV Charger', 'Portable Charger']
       },
       {
-          id: '17',
+          id: '117',
           name: 'Tesla WallBox EV Charger',
           imageSource: require('../images/product-images/teslatype2teison.jpg'),
           price: 1750,
@@ -812,7 +812,7 @@ export const products = [
         weight: '5 kg'
       },
       {
-        id: '21',
+        id: '121',
         name: 'Mercedes Benz EV Charger - EQS, EQC, EQA, EQB',
         imageSource: require('../images/product-images/New-Mega-Charger.png'),
         price: 1600,
@@ -848,7 +848,7 @@ tags: ['Mercedes Benz EV Charger', 'EQS EV Charger', 'EQS Charger', 'EQC EV Char
       },
 
       {
-        id: '22',
+        id: '522',
         name: 'CCS2 to CCS1 Adapter - EU Standard to US Standard EV Connector',
         imageSource: require('../images/product-images/CCS2toCCS1.webp'),
         price: 1350,
@@ -874,7 +874,7 @@ tags: ['Mercedes Benz EV Charger', 'EQS EV Charger', 'EQS Charger', 'EQC EV Char
         tags: ['CCS2 to CCS1', 'DC Adapter', 'CCS2 to CCS1 Adapter', 'Ford Adapter', 'GMC Adapter', 'US Mercedes Adapter']
       },
       {
-        id: '23',
+        id: '723',
         name: 'Portable EV Charging Station - 30 KWH Portable Charger Station',
         imageSource: require('../images/product-images/Portable-EV-Station.png'),
         price: 70000,
@@ -920,7 +920,7 @@ tags: ['Mercedes Benz EV Charger', 'EQS EV Charger', 'EQS Charger', 'EQC EV Char
 
       },
       {
-        id: '24',
+        id: '724',
         name: 'Portable EV Charging Station - 60 KWH Portable Charger Station',
         imageSource: require('../images/product-images/Portable-EV-Station.png'),
         price: 117000,
