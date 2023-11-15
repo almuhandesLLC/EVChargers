@@ -423,7 +423,7 @@ export const products = [
           ratingCount: 3,
           description: 'Charge your Volkswagen ID4 and ID6 with Type 2  AC chargers.',
           portType: 'gbt',
-          function: 'charger',
+          function: 'dcadapters',
           longDescription: 'By possessing this GBT to Type 2 adapter, you can charge your Volkswagen ID4 and ID6 with Type 2 AC chargers. This adapter is compatible with all Type 2 AC chargers. That means you can charge your EV with EU Tesla charger, BMW charger, Audi charger, Mercedes charger, and many more. With this adapter, you can now unlock more charging options for your Volkswagen ID4 and ID6 or any car with GB/T charging port.',
           weight: '0.5 kg',
           availablePorts: 'GBT, Type 2, Type 1',
