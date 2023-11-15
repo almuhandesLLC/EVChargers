@@ -4,7 +4,7 @@ import { products } from './data/productdata';
 import { FaBackward } from 'react-icons/fa';
 
 const Adapters = () => {
-  const filteredProducts = products.filter((product) => product.function === 'adapter');
+  const filteredProducts = products.filter((product) => product.function === 'dcadapter');
 
   return (
     <Box>
