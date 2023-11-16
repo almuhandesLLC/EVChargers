@@ -288,7 +288,7 @@ export const products = [
       tags: ['Tesla EV charger', 'Tesla charger', 'Tesla charger delivery', 'Tesla home charger', 'Tesla type 2 charger', 'US Tesla charger', 'EU Tesla charger']
     },
     {
-      id: '409',
+      id: '9',
       name: 'GB/T to Tesla Adapter',
       currency: 'AED',
       price: 600,
