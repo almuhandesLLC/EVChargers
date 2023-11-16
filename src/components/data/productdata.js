@@ -288,7 +288,7 @@ export const products = [
       tags: ['Tesla EV charger', 'Tesla charger', 'Tesla charger delivery', 'Tesla home charger', 'Tesla type 2 charger', 'US Tesla charger', 'EU Tesla charger']
     },
     {
-      id: '9',
+      id: '409',
       name: 'GB/T to Tesla Adapter',
       currency: 'AED',
       price: 600,
@@ -311,6 +311,28 @@ export const products = [
       tags: ['GBT to Tesla Adapter', 'GBT to Tesla Adapter Dubai', 'GBT to Tesla Adapter Sharjah', 'GBT to Tesla Adapter Abu Dhabi', 'Tesla adapter', 'Tesla charger']
 
     },
+   {
+        id: '9',
+        name: 'محول GB/T إلى تسلا',
+        currency: 'AED',
+        price: 600,
+        flag: 'new',
+        imageSource: 'https://iili.io/HregvLP.md.png',
+        rating: 4,
+        ratingCount: 14,
+        tags: ['Tesla', 'تسلا', 'محول'],
+        description:
+          'باستخدام هذا ادابتر GBT إلى تسلا يمكنك شحن سيارة تسلا باستخدام شواحن سيارات فولكس فاجن ID4 و ID6',
+        portType: 'gbt',
+        function: 'adapter',
+        portType2: 'tesla',
+        longDescription: `The GB/T to Tesla Adapter is a convenient accessory that enables Tesla owners to charge their vehicles using ID4, ID6, or Changan EV chargers. This adapter serves as a bridge between the different charging standards, allowing Tesla owners to access a wider range of charging options. Whether you're on a road trip, visiting a location with limited charging infrastructure, or simply looking for more flexibility in charging your Tesla, this adapter ensures compatibility and convenience. With the GB/T to Tesla Adapter, you can confidently charge your Tesla using various chargers, expanding your charging options and enhancing your electric driving experience.`,
+        illustration: 'https://evee.com.au/blog/content/images/2021/08/commercialcharging-hero-desktop.jpeg',
+        illustration2:'https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/lectron_ccs_adapter.jpg',
+        availablePorts: 'GBT to Tesla',
+        weight: '0.5 kg',
+
+      },
       {
       id: '10',
       name: 'Portable 7.7kW Electric Cars Charger',
