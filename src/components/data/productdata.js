@@ -457,7 +457,9 @@ With the Volkswagen ID4 & ID6 Wallbox EV Charger, you can enjoy the convenience 
           currency: 'AED',
           price: 400,
           flag: 'new',
-          imageSource: require('../images/product-images/GBTtoGBT.webp'),
+          imageSource: require('../images/product-images/GBTtoGBT.jpg'),
+          // imageSource: require('../images/product-images/GBTtoGBT.webp'),jpg
+            
           // imageUrl: 'https://iili.io/HrEn199.md.jpg',
           imageAlt: 'Type 2 to GBT AC Adapter',
           rating: 5,
