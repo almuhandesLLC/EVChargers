@@ -294,7 +294,7 @@ export const products = [
       price: 600,
       flag: 'new',
       // imageSource: 'https://iili.io/HregvLP.md.png',
-      imageUrl: 'https://iili.io/HrEn199.md.jpg',
+      imageUrl: 'https://iili.io/HregvLP.md.png',
       imageAlt: 'GB/T to Tesla Adapter',
       rating: 4,
       ratingCount: 14,
