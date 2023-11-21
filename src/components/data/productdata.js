@@ -318,7 +318,9 @@ export const products = [
         currency: 'AED',
         price: 600,
         flag: 'new',
-        imageSource: 'https://iili.io/HregvLP.md.png',
+        // old code 
+        // imageSource: 'https://iili.io/HregvLP.md.png',
+        imageUrl :'https://iili.io/HregvLP.md.png',
         rating: 4,
         ratingCount: 14,
         tags: ['Tesla', 'تسلا', 'محول'],
