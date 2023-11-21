@@ -321,8 +321,11 @@ With the Volkswagen ID4 & ID6 Wallbox EV Charger, you can enjoy the convenience 
         tags: ['ID4 wallbox DC charger', 'ID4 Dc charger', 'ID6 EV charger', 'ID4 Home DC Charger', 'Buy ID4 ID6 charger', 'Fast ID6 charger'],
         illustration: require('../images/product-images/VW_ID4__ID6_DC-Fast_charger_EV_Charger-1.webp'),
         power: '22 kW',
-
-        weight: '30 kg'
+        power: 'DC',
+        current: '32 A',
+        cableLength: '5m',
+        weight: '30 kg',
+        StorageTemperature:' -40 ℃~80 ℃'
      
       },
     {
