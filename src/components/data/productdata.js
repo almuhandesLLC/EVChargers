@@ -321,8 +321,7 @@ With the Volkswagen ID4 & ID6 Wallbox EV Charger, you can enjoy the convenience 
         tags: ['ID4 wallbox DC charger', 'ID4 Dc charger', 'ID6 EV charger', 'ID4 Home DC Charger', 'Buy ID4 ID6 charger', 'Fast ID6 charger'],
         illustration: require('../images/VW ID4 & ID6 DC Fast charger EV Charger 1.jpeg'),
         power: '22 kW',
-     current: '32 A',
-      cableLength: '5m',
+
         weight: '30 kg'
      
       },
