@@ -288,9 +288,9 @@ export const products = [
       tags: ['Tesla EV charger', 'Tesla charger', 'Tesla charger delivery', 'Tesla home charger', 'Tesla type 2 charger', 'US Tesla charger', 'EU Tesla charger']
     },
    {
-          id: '401',
+          id: '301',
           name: 'VW ID4 & ID6 DC Fast charger EV Charger',
-          imageSource: require('../images/product-images/VW ID4 & ID6 DC Fast charger EV Charger.jpeg'),
+          imageSource: require('../images/product-images/VW_ID4__ID6_DC-Fast_charger_EV_Charger.webp'),
           price: 5200,
           salePrice: 4900,
           rating: 5,
@@ -319,7 +319,7 @@ Moreover, the Volkswagen ID4 & ID6 Wallbox EV Charger boasts a sleek and compact
 With the Volkswagen ID4 & ID6 Wallbox EV Charger, you can enjoy the convenience and peace of mind that come with owning an electric vehicle. It's a reliable and efficient charging solution that perfectly complements the exceptional performance and sustainability of the Volkswagen ID4 and ID6 models. Say goodbye to range anxiety and embrace the future of driving with the Volkswagen ID4 & ID6 Wallbox EV Charger..`,
 
         tags: ['ID4 wallbox DC charger', 'ID4 Dc charger', 'ID6 EV charger', 'ID4 Home DC Charger', 'Buy ID4 ID6 charger', 'Fast ID6 charger'],
-        illustration: require('../images/VW ID4 & ID6 DC Fast charger EV Charger 1.jpeg'),
+        illustration: require('../images/VW_ID4__ID6_DC-Fast_charger_EV_Charger1.webp'),
         power: '22 kW',
 
         weight: '30 kg'
