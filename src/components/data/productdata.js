@@ -289,7 +289,7 @@ export const products = [
     },
    {
           id: '301',
-          name: 'VW ID4 & ID6 DC Fast charger EV Charger',
+          name: 'VW ID4 & ID6 DC Fast charger EV Charger 22kw',
           imageSource: require('../images/product-images/VW_ID4__ID6_DC-Fast_charger_EV_Charger.webp'),
           price: 5200,
           salePrice: 4900,
