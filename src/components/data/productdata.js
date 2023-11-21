@@ -324,12 +324,7 @@ With the Volkswagen ID4 & ID6 Wallbox EV Charger, you can enjoy the convenience 
         power: 'DC',
         current: '32 A',
         cableLength: '5m',
-        OutputVoltage :'200-1000Vdc',
-        OutputCurrent: '65A MAX',
-        StorageTemperature:' -40 ℃~80 ℃',
-        ProductWeight :'33kg (including packaging)',
-        MainSize: '393 * 630 * 145mm',
-        ColumnSize" '300 * 1305 * 300mm'
+       
      
       },
    {
