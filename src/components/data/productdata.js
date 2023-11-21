@@ -316,8 +316,42 @@ Moreover, the Volkswagen ID4 & ID6 Wallbox EV Charger boasts a sleek and compact
 
 
 
-With the Volkswagen ID4 & ID6 Wallbox EV Charger, you can enjoy the convenience and peace of mind that come with owning an electric vehicle. It's a reliable and efficient charging solution that perfectly complements the exceptional performance and sustainability of the Volkswagen ID4 and ID6 models. Say goodbye to range anxiety and embrace the future of driving with the Volkswagen ID4 & ID6 Wallbox EV Charger..`,
+With the Volkswagen ID4 & ID6 Wallbox EV Charger, you can enjoy the convenience and peace of mind that come with owning an electric vehicle. It's a reliable and efficient charging solution that perfectly complements the exceptional performance and sustainability of the Volkswagen ID4 and ID6 models. Say goodbye to range anxiety and embrace the future of driving with the Volkswagen ID4 & ID6 Wallbox EV Charger.
 
+Output power 22000W MAX
+
+Output voltage 200-1000Vdc
+
+Output current 65A MAX
+
+Efficiency ≥ 94%
+
+Standby power consumption ≤ 12W
+
+Working temperature/humidity -30 ℃~65 ℃/5%~95%
+
+Storage temperature -40 ℃~80 ℃
+
+Protection level IP54
+
+Working altitude ＜ 2000m
+
+Charging cable length 5m
+
+Main size 393 * 630 * 145mm
+
+Column size 300 * 1305 * 300mm
+
+Product weight 33kg (including packaging)
+
+Human machine interface LCD color screen (non touchable)
+
+Installation method: wall mounted/column mounted
+
+Noise control in silent mode with a noise level of approximately 45dB (laboratory test data)
+`,
+
+     
         tags: ['ID4 wallbox DC charger', 'ID4 Dc charger', 'ID6 EV charger', 'ID4 Home DC Charger', 'Buy ID4 ID6 charger', 'Fast ID6 charger','22KW DC GBT','Volkswagen ID.4 charging time','30KW Constant Power DC Fast Charger at Home for GBT '],
         illustration: require('../images/product-images/VW_ID4__ID6_DC-Fast_charger_EV_Charger-1.webp'),
         power: '22 kW',
@@ -331,8 +365,8 @@ With the Volkswagen ID4 & ID6 Wallbox EV Charger, you can enjoy the convenience 
           id: '302',
           name: 'VW ID4 & ID6 DC Fast charger EV Charger 30kw',
           imageSource: require('../images/product-images/VW_ID4__ID6_DC-Fast_charger_EV_Charger.webp'),
-          price: 5200,
-          salePrice: 4900,
+          price: 10000,
+          salePrice: 9000,
           rating: 5,
           ratingCount: 3,
           function: 'Dcharger',
@@ -356,7 +390,39 @@ Moreover, the Volkswagen ID4 & ID6 Wallbox EV Charger boasts a sleek and compact
 
 
 
-With the Volkswagen ID4 & ID6 Wallbox EV Charger, you can enjoy the convenience and peace of mind that come with owning an electric vehicle. It's a reliable and efficient charging solution that perfectly complements the exceptional performance and sustainability of the Volkswagen ID4 and ID6 models. Say goodbye to range anxiety and embrace the future of driving with the Volkswagen ID4 & ID6 Wallbox EV Charger..`,
+With the Volkswagen ID4 & ID6 Wallbox EV Charger, you can enjoy the convenience and peace of mind that come with owning an electric vehicle. It's a reliable and efficient charging solution that perfectly complements the exceptional performance and sustainability of the Volkswagen ID4 and ID6 models. Say goodbye to range anxiety and embrace the future of driving with the Volkswagen ID4 & ID6 Wallbox EV Charger.
+Output power 30000W MAX
+
+Output voltage 200-1000Vdc
+
+Output current 65A MAX
+
+Efficiency ≥ 94%
+
+Standby power consumption ≤ 12W
+
+Working temperature/humidity -30 ℃~65 ℃/5%~95%
+
+Storage temperature -40 ℃~80 ℃
+
+Protection level IP54
+
+Working altitude ＜ 2000m
+
+Charging cable length 5m
+
+Main size 393 * 630 * 145mm
+
+Column size 300 * 1305 * 300mm
+
+Product weight 33kg (including packaging)
+
+Human machine interface LCD color screen (non touchable)
+
+Installation method: wall mounted/column mounted
+
+Noise control in silent mode with a noise level of approximately 45dB (laboratory test data)
+`,
 
         tags: ['ID4 wallbox DC charger', 'ID4 Dc charger', 'ID6 EV charger', 'ID4 Home DC Charger', 'Buy ID4 ID6 charger', 'Fast ID6 charger','30KW DC GBT','Volkswagen ID.4 charging time','30KW Constant Power DC Fast Charger at Home for GBT '],
         illustration: require('../images/product-images/VW_ID4__ID6_DC-Fast_charger_EV_Charger-1.webp'),
@@ -364,8 +430,8 @@ With the Volkswagen ID4 & ID6 Wallbox EV Charger, you can enjoy the convenience 
         power: 'DC',
         current: '32 A',
         cableLength: '5m',
-        weight: '30 kg',
-        StorageTemperature:' -40 ℃~80 ℃'
+        weight: '30 kg'
+     
      
       },
    {
@@ -397,7 +463,38 @@ Moreover, the Volkswagen ID4 & ID6 Wallbox EV Charger boasts a sleek and compact
 
 
 
-With the Volkswagen ID4 & ID6 Wallbox EV Charger, you can enjoy the convenience and peace of mind that come with owning an electric vehicle. It's a reliable and efficient charging solution that perfectly complements the exceptional performance and sustainability of the Volkswagen ID4 and ID6 models. Say goodbye to range anxiety and embrace the future of driving with the Volkswagen ID4 & ID6 Wallbox EV Charger..`,
+With the Volkswagen ID4 & ID6 Wallbox EV Charger, you can enjoy the convenience and peace of mind that come with owning an electric vehicle. It's a reliable and efficient charging solution that perfectly complements the exceptional performance and sustainability of the Volkswagen ID4 and ID6 models. Say goodbye to range anxiety and embrace the future of driving with the Volkswagen ID4 & ID6 Wallbox EV Charger.
+Output power 30000W MAX
+
+Output voltage 200-1000Vdc
+
+Output current 65A MAX
+
+Efficiency ≥ 94%
+
+Standby power consumption ≤ 12W
+
+Working temperature/humidity -30 ℃~65 ℃/5%~95%
+
+Storage temperature -40 ℃~80 ℃
+
+Protection level IP54
+
+Working altitude ＜ 2000m
+
+Charging cable length 5m
+
+Main size 393 * 630 * 145mm
+
+Column size 300 * 1305 * 300mm
+
+Product weight 33kg (including packaging)
+
+Human machine interface LCD color screen (non touchable)
+
+Installation method: wall mounted/column mounted
+
+Noise control in silent mode with a noise level of approximately 45dB (laboratory test data)`,
 
         tags: ['ID4 wallbox DC charger', 'ID4 Dc charger', 'ID6 EV charger', 'ID4 Home DC Charger', 'Buy ID4 ID6 charger', 'Fast ID6 charger','40KW DC GBT','Volkswagen ID.4 charging time','40KW Constant Power DC Fast Charger at Home for GBT '],
         illustration: require('../images/product-images/VW_ID4__ID6_DC-Fast_charger_EV_Charger-1.webp'),
@@ -405,9 +502,7 @@ With the Volkswagen ID4 & ID6 Wallbox EV Charger, you can enjoy the convenience 
         power: 'DC',
         current: '32 A',
         cableLength: '5m',
-        weight: '30 kg',
-        StorageTemperature:' -40 ℃~80 ℃'
-     
+        weight: '30 kg'
       },
     {
       id: '409',
