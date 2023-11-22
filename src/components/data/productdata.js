@@ -1245,221 +1245,55 @@ Noise control in silent mode with a noise level of approximately 45dB (laborator
 
       },
   {
-          id:'903',
-          name: 'ID4 Car Diagnostic Scanner - Scan Your ID4 ID6 With Autel Ultra EV',
+          id:'905',
+          name: 'EV Diagnostics Upgrade Kit',
           currency: 'AED',
-          price: 14000,
+          price: 3250,
           flag: 'new',
-          imageSource: require('../images/product-images/AutelMSULTRAEVDirectionalScanTool.webp'),
+          imageSource: require('../images/product-images/EV-VCI.webp'),
           rating: 5,
           ratingCount: 1,
-          description: 'Autel Ultra EV Professional EV Smart Diagnostic System, a high-performance 12.9-inch tablet that supports Bluetooth communication, DoIP, and CAN-FD protocols. With online software updates and compatibility with most Tesla EV models, it offers comprehensive diagnostic functions including battery pack detection, Tesla diagnosis, ECU information reading, DTC clearing, live data analysis, and over 40 special functions. Plus, it provides IMMO support for added security. Stay ahead with the Ultra EV and unlock the full potential of electric vehicle diagnostics. ',
-          longDescription: `Introducing the Autel Ultra EV Professional EV Smart Diagnostic System, the ultimate companion for all your electric vehicle diagnostic needs. Engineered for excellence, this powerful tablet boasts a 9.7-inch display, delivering high performance and durability to ensure a long-lasting diagnostic experience.
-          This tool can scan and diagnose all Tesla models,ID.4 ,ID 6 crozz,ID buzz,Nissan Leaf ,and Mercedes-Benz EQC and clear error codes. It can also be used to reset the service light and perform battery resets.
+          description: 'Autel  EV Box for EV Smart Diagnostic System, EV Box athat supports Bluetooth communication, DoIP, and CAN-FD protocols. With online software updates and compatibility with most Tesla EV models, it offers comprehensive diagnostic functions including battery pack detection, Tesla diagnosis, ECU information reading, DTC clearing, live data analysis, and over 40 special functions. Plus, it provides IMMO support for added security. Stay ahead with the Ultra EV and unlock the full potential of electric vehicle diagnostics. ',
+          longDescription: `The EV Diagnostics Upgrade Kit includes EVDiag Box, testing software, and adapters for specific vehicles to enable testing of electric vehicle battery packs. The EVDiag Box is compatible with the MaxiSys Ultra, MaxiSys Ultra ADAS, MaxiSys MS919, and MaxiSys MS909.
+          
 
-          Autel Ultra EV Automotive Diagnostic
+          Autel MS909 / MS919 / Ultral EV Diagnostics Upgrade Kit includes EVDiag Box
           feather:
+          Includes EVDiag Box, breakout leads and BMW, Tesla, VW adapters
+          Includes EV battery pack diagnostic software upgrade
+          Compatible with MS Ultra, MS919 and MS909 tablets
+          Diagnose battery State of Charge and State of Health
+          Includes carrying case
           
-          Operating System	:Android 7.0
-          Processor	:Samsung Exynos8895V octa-core Processor (2.3GHz Quad-core Mongoose + 1.7GHz Quad-core A53) 
-          Memory	: 4GB RAM & 256GB On-board Memory
-          Display	: 12.9 inch TFT-LCD with 2732 x 2048 resolution & capacitive touch screen
-          Connectivity	
-          WiFix2 (802.11 a/b/g/n/ac 2x2 MIMO)
-          
-          BT v.2.1 + EDR
-          
-          GPS
-          
-          USB 2.0 (Two USB HOST Type A, one USB mini device)
-          
-          HDMI 2.0
-          
-          SD Card (Support up to 256GB)
-          
-          Camera 	
-          Rear: 16 Megapixel, Autofocus with Flashlight
-          
-          Front: 5 Megapixel
-          
-          Sensors	Gravity Accelerometer, Ambient Light Sensor (ALS)
-          Audio Input/Output	
-          Microphone
-          
-          Dual Speakers
-          
-          3-Band 3.5 mm stereo/standard headset jack
-          
-          Power and Battery	
-          18000mAh 3.8 V lithium-polymer battery
-          
-          Charging via 12 V AC/DC power supply with the temperature between 0°C and 45°C
-          
-          Input Voltage	12V/3A Adapter
-          Operating Temp.	0 to 50°C (32 to 122°F)
-          Storage Temperature	-20 to 60°C (-4 to 140°F)
-          Dimensions (WxHxD)	366.5 mm (14.43") x 280.9 mm (11.06") x 34 mm (1.34")
-          Weight	2.18kg (4.81 lb.)
-          Protocols
-          
-          DoIP, PLC J2497, ISO-15765, SAE-J1939, ISO-14229 UDS, SAE-J2411 Single Wire Can (GMLAN), ISO-11898-2, ISO-11898-3, SAE-J2819 (TP20), TP16, ISO-9141, ISO-14230, SAE-J2610 (Chrysler SCI), UART Echo Byte, SAE-J2809 (Honda Diag-H), SAE-J2740 (GM ALDL), SAE-J1567 (CCD BUS), Ford UBP, Nissan DDL UART with Clock, BMW DS2, BMW DS1, SAE J2819 (VAG KW81), KW82, SAE J1708, SAE-J1850 PWM (Ford SCP), SAE-J1850 VPW (GM Class2) 
+          Autel EV BOX Package Includes:
+
+          1pc x EVDiag Box
+          1pc x Adapter BPTC0101/01
+          1pc x Adapter BPTC0205/01
+          6pcs x Breakout Lead 1
+          1pc x Adapter BPTC0102/01
+          1pc x Adapter BPTC1101/01
+          6pcs x Breakout Lead 2
+          1pc x Adapter BPTC0103/01
+          1pc x Adapter BPTC1102/01
+          6pcs x Breakout Lead 3
+          1pc x Adapter BPTC0201/01
+          1pc x DB25 Snake Cable BPTJ0001/01
+          6pcs x Breakout Lead 4
+          1pc x Adapter BPTC0202/01
+          1pc x Packing List
+          1pc x EVDiag Box Main Cable BPTC0001/01
+          1pc x Adapter BPTC0203/01
+          1pc x Quick Reference Guide
+          3pcs x Breakout Lead Extension Cord
+          1pc x Adapter BPTC0204/01
+          1pc x Carrying Case 634x170x404mm
+          4pcs x Dual Banana Plug
                     `,
           portType: 'none',
           function: 'scanner',
-          illustration: 'https://raw.githubusercontent.com/almuhandesLLC/EVChargers/main/src/components/images/product-images/AutelMSULTRAEVOBD2CANBi-DirectionalScanToolwithEVandVCMI.webp',
-          // illustration2: 'https://service.tesla.com/assets/images/png/bodyshops/desktop/bodyshop-hero-desktop-g.jpg',
-          op: 'Android',
-          coverageList: [
-           
-            {
-              brand: 'Audi (e-tron)',
-              image: require('../images/Brands/EV-Brands/Audi.png')
-            },
-            {
-              brand: 'BAIC/Senoua (BAIC)/Weiwang (BAIC)/BJEV (EV)',
-              image: require('../images/Brands/EV-Brands/BAIC_Senova.png')
-            },
-            {
-              brand: 'BMW/Rolls Royce/Mini (EV)',
-              image: require('../images/Brands/EV-Brands/BMW.png')
-            },
-            
-            {
-              brand: 'BYD (EV)',
-              image: require('../images/Brands/EV-Brands/BYD.png')
-            },
-            // {
-            //   brand: 'Changan (EV)',
-            //   image: require('../images/Brands/EV-Brands/changan.png')
-            // },
-     
-            {
-              brand: 'Chery (EV)',
-              image: require('../images/Brands/EV-Brands/Chery.png')
-            },
-            {
-              brand: 'Chrysler/Jeep (EV)',
-              image: require('../images/Brands/EV-Brands/Chrysler.png')
-            },
-            {
-              brand: 'Dodge (EV)',
-              image: require('../images/Brands/EV-Brands/Dodge.png')
-            },
-            {
-              brand: 'Citroen (EV)',
-              image: require('../images/Brands/EV-Brands/Citron.png')
-            },
-            {
-              brand: 'Jeep (EV)',
-              image: require('../images/Brands/EV-Brands/Jeep.webp')
-            },
-           
-            {
-              brand: 'Geely (EV)',
-              image: require('../images/Brands/EV-Brands/Geely.png')
-            },
-            {
-              brand: 'GM/Cadillac/Buick (EV)',
-              image: require('../images/Brands/EV-Brands/GM.png')
-            },
-            {
-              brand: 'Chevrolet (EV)',
-              image: require('../images/Brands/EV-Brands/Chevrolet.png')
-            },
-            {
-              brand: 'Cadillac (EV)',
-              image: require('../images/Brands/EV-Brands/cad.webp')
-            },
-        
-            {
-              brand: 'Honda (EV)',
-              image: require('../images/Brands/EV-Brands/Honda.png')
-            },
-          
-            {
-              brand: 'Hyundai (EV)',
-              image: require('../images/Brands/EV-Brands/Hyundai.png')
-            },
-            {
-              brand: 'JAC (EV)',
-              image: require('../images/Brands/EV-Brands/JAC.png')
-            },
-            {
-              brand: 'Jetour (EV)',
-              image: require('../images/Brands/EV-Brands/Jetour.png')
-            },
-          
-            {
-              brand: 'Kia (EV)',
-              image: require('../images/Brands/EV-Brands/KIA.png')
-            },
-     
-      
-            {
-              brand: 'Mercedes-Benz/EQC/EQA/EQB (EV)',
-              image: require('../images/Brands/EV-Brands/MercedesBENZ.png')
-            },
-         
-            {
-              brand: 'Mitsubishi (EV)',
-              image: require('../images/Brands/EV-Brands/Mitsubishi.png')
-            },
-         
-            {
-              brand: 'Nissan/Infiniti (EV)',
-              image: require('../images/Brands/EV-Brands/Nissan_logo.png')
-            },
-            {
-              brand: 'NLM NEW ENERGY (EV)',
-              image: require('../images/Brands/EV-Brands/NLM.png')
-            },
-            {
-              brand: 'Opel/Vauxhall/Opel (South Africa) (EV)',
-              image: require('../images/Brands/EV-Brands/opel.png')
-            },
-            {
-              brand: 'Peugeot (EV)',
-              image: require('../images/Brands/EV-Brands/Peugeot.png')
-            },
-            {
-              brand: 'Porsche (EV)',
-              image: require('../images/Brands/EV-Brands/porsche-6-logo-svg-vector.svg')
-            },
-            {
-              brand: 'Renault/Dacia/Samsung Renault (EV)',
-              image: require('../images/Brands/EV-Brands/renault-old-vector-logo.png')
-            },
-           
-           
-            
-            {
-              brand: 'SMART (EV)',
-              image: require('../images/Brands/EV-Brands/Smart.png')
-            },
-  
-          
-            {
-              brand: 'TESLA (EV)',
-              image: require('../images/Brands/EV-Brands/Tesla_Motors.svg.png')
-            },
-            {
-              brand: 'Toyota/Lexus (EV)',
-              image: require('../images/Brands/EV-Brands/BMW.png')
-            },
-          
-            {
-              brand: 'Volvo (EV)',
-              image: require('../images/Brands/EV-Brands/Volvo.png')
-            },
-            {
-              brand: 'VW (ID4 & ID6)',
-              image: require('../images/Brands/EV-Brands/Volkswagen.png')
-            },
-           
-      
-           
-          ],
-        
+          illustration: 'https://raw.githubusercontent.com/almuhandesLLC/EVChargers/main/src/components/images/product-images/EV-Box.webp',
+          illustration2: 'https://raw.githubusercontent.com/almuhandesLLC/EVChargers/main/src/components/images/product-images/autel-ev-diagnostics-upgrade-kit.webp',        
           tags: ['ID4 OBD2 Scanner', 'ID6 diagnostic scanner', 'ID4 diagnostic software', 'ID6 scanner', 'EQC EV Scanner', 'Mercedes-Benz EQC EV Scanner','Mercedes-Benz EQB EV Scanner']
 
       },
