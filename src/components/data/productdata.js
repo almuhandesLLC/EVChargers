@@ -1306,7 +1306,7 @@ Noise control in silent mode with a noise level of approximately 45dB (laborator
           currency: 'AED',
           price: 10000,
           flag: 'new',
-          imageSource: require('../images/product-images/AutelMSULTRAEVDirectionalScanTool.webp'),
+          imageSource: require('../images/product-images/Autel-MS909EV.webp'),
           rating: 5,
           ratingCount: 1,
           description: 'Autel 909 EV Professional EV Smart Diagnostic System, a high-performance 9.7-inch tablet that supports Bluetooth communication, DoIP, and CAN-FD protocols. With online software updates and compatibility with most Tesla EV models, it offers comprehensive diagnostic functions including battery pack detection, Tesla diagnosis, ECU information reading, DTC clearing, live data analysis, and over 40 special functions. Plus, it provides IMMO support for added security. Stay ahead with the Ultra EV and unlock the full potential of electric vehicle diagnostics. ',
@@ -1366,7 +1366,7 @@ Protocols	DoIP, PLC J2497, ISO-15765, SAE-J1939, ISO-14229 UDS, SAE-J2411 Single
                     `,
           portType: 'none',
           function: 'scanner',
-          illustration: 'https://raw.githubusercontent.com/almuhandesLLC/EVChargers/main/src/components/images/product-images/AutelMSULTRAEVOBD2CANBi-DirectionalScanToolwithEVandVCMI.webp',
+          illustration: 'https://raw.githubusercontent.com/almuhandesLLC/EVChargers/main/src/components/images/product-images/Autel-MS909EV-Box.webp',
           // illustration2: 'https://service.tesla.com/assets/images/png/bodyshops/desktop/bodyshop-hero-desktop-g.jpg',
           op: 'Android',
           coverageList: [
