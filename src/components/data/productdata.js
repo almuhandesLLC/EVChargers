@@ -1246,18 +1246,18 @@ Noise control in silent mode with a noise level of approximately 45dB (laborator
       },
   {
           id:'905',
-          name: 'EV Diagnostics Upgrade Kit',
+          name: 'Autel Maxisys EV diagnostics upgrade kit',
           currency: 'AED',
           price: 3250,
           flag: 'new',
           imageSource: require('../images/product-images/EV-VCI.webp'),
           rating: 5,
           ratingCount: 1,
-          description: 'Autel  EV Box for EV Smart Diagnostic System, EV Box athat supports Bluetooth communication, DoIP, and CAN-FD protocols. With online software updates and compatibility with most Tesla EV models, it offers comprehensive diagnostic functions including battery pack detection, Tesla diagnosis, ECU information reading, DTC clearing, live data analysis, and over 40 special functions. Plus, it provides IMMO support for added security. Stay ahead with the Ultra EV and unlock the full potential of electric vehicle diagnostics. ',
-          longDescription: `The EV Diagnostics Upgrade Kit includes EVDiag Box, testing software, and adapters for specific vehicles to enable testing of electric vehicle battery packs. The EVDiag Box is compatible with the MaxiSys Ultra, MaxiSys Ultra ADAS, MaxiSys MS919, and MaxiSys MS909.
+          description: 'Autel Maxisys EV diagnostics upgrade kit for EV Smart Diagnostic System, EV Box athat supports Bluetooth communication, DoIP, and CAN-FD protocols. With online software updates and compatibility with most Tesla EV models, it offers comprehensive diagnostic functions including battery pack detection, Tesla diagnosis, ECU information reading, DTC clearing, live data analysis, and over 40 special functions. Plus, it provides IMMO support for added security. Stay ahead with the Ultra EV and unlock the full potential of electric vehicle diagnostics. ',
+          longDescription: `Autel Maxisys EV diagnostics upgrade kitincludes EVDiag Box, testing software, and adapters for specific vehicles to enable testing of electric vehicle battery packs. The EVDiag Box is compatible with the MaxiSys Ultra, MaxiSys Ultra ADAS, MaxiSys MS919, and MaxiSys MS909.
           
 
-          Autel MS909 / MS919 / Ultral EV Diagnostics Upgrade Kit includes EVDiag Box
+          Autel MS909  / Ultral EV Diagnostics Upgrade Kit includes EVDiag Box
           feather:
           Includes EVDiag Box, breakout leads and BMW, Tesla, VW adapters
           Includes EV battery pack diagnostic software upgrade
@@ -1265,7 +1265,7 @@ Noise control in silent mode with a noise level of approximately 45dB (laborator
           Diagnose battery State of Charge and State of Health
           Includes carrying case
           
-          Autel EV BOX Package Includes:
+          Autel Maxisys EV BOX Package Includes:
 
           1pc x EVDiag Box
           1pc x Adapter BPTC0101/01
@@ -1294,7 +1294,7 @@ Noise control in silent mode with a noise level of approximately 45dB (laborator
           function: 'scanner',
           illustration: 'https://raw.githubusercontent.com/almuhandesLLC/EVChargers/main/src/components/images/product-images/EV-Box.webp',
           illustration2: 'https://raw.githubusercontent.com/almuhandesLLC/EVChargers/main/src/components/images/product-images/autel-ev-diagnostics-upgrade-kit.webp',        
-          tags: ['ID4 OBD2 Scanner', 'ID6 diagnostic scanner', 'ID4 diagnostic software', 'ID6 scanner', 'EQC EV Scanner', 'Mercedes-Benz EQC EV Scanner','Mercedes-Benz EQB EV Scanner']
+          tags: ['ID4 OBD2 Scanner', 'ID6 diagnostic scanner', 'ID4 diagnostic software', 'ID6 scanner', 'EQC EV Scanner', 'Mercedes-Benz EQC EV Scanner','Mercedes-Benz EQB EV Scanner','Maxisys','Autel Maxisys EV diagnostics ']
 
       },
   {
